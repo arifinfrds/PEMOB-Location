@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location2</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_denied_explanation">permission ditolak</string>
+    <string name="settings">permission ditolak</string>
+    <string name="permission_rationale">permission rationale</string>
+    <string name="no_location_detected">tidak ada lokasi yang terdeteksi</string>
+</resources>
